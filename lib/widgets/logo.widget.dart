@@ -8,9 +8,11 @@ class Logo extends StatelessWidget {
         SizedBox(
           height: 60,
         ),
-        Image.asset(
-          "assets/images/aog-white.png",
-          height: 80,
+        Container(
+          child: Image.asset(
+            "assets/images/aog-white.png",
+            height: 80,
+          ),
         ),
         SizedBox(
           height: 10,

@@ -36,7 +36,7 @@ class Input extends StatelessWidget {
             style: TextStyle(
               color: Colors.white,
               fontSize: 45,
-              fontFamily: "Big Shouldrs Display",
+              fontFamily: "Big Shoulders Display",
             ),
             decoration: InputDecoration(
               border: InputBorder.none,
